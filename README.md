@@ -1,4 +1,5 @@
 # Horiseon-demo 
+Link to the deployed application: https://anjinismail.github.io/Horiseon-demo/
 
 For this weeks assignment/challenge the overall goal of the assignment was to refactor a given code. 
 
