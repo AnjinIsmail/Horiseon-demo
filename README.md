@@ -15,15 +15,14 @@ on index.html, created a div for content and placed the same attributes under .c
 The same was applied to "benefits". Created a div on the index.html and called it on the CSS sheet .benefits 
 
 ![image of Website screenshot -1 ]:
-(https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-1.png) 
+<img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-1.png?raw=true">
+
 
 
 ![image of Wesbite screenshot-2]
-[https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-2.png]
-
+<img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Webstie-ss-2.png?raw=true">
 
 ![image of Website screenshot-3]
-[https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-3.png]
-
+<img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-3.png?raw=true">
 
 
