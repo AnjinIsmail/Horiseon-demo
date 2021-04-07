@@ -1,9 +1,8 @@
 # Horiseon-demo 
-Link to the deployed application: https://anjinismail.github.io/Horiseon-demo/
 
-For this weeks assignment/challenge the overall goal of the assignment was to refactor a given code. 
+# Purpose:
+This is refactored code project- with a cleaner and simple code. 
 
-Challenge: a given code needed to be refactored to reflect  a cleaner and simpler code of the mock site “Horiseon”
 
 The refactor code consisted of : one missing factor on the index.html: 
 	-The top navigation section by the title of the website “Search Engine Optimization” once clicked was not redirecting to the appropriate destination. 
@@ -15,15 +14,16 @@ The CSS refactor code -  The style. css had multiple repetitive settings and was
 on index.html, created a div for content and placed the same attributes under .content on the css sheet.
 The same was applied to "benefits". Created a div on the index.html and called it on the CSS sheet .benefits 
 
-![image of Website screenshot -1 ]:
+
+Link to the deployed application: https://anjinismail.github.io/Horiseon-demo/
+
 <img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-1.png?raw=true">
 
 
 
-![image of Wesbite screenshot-2]
+
 <img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Webstie-ss-2.png?raw=true">
 
-![image of Website screenshot-3]
 <img src="https://github.com/AnjinIsmail/Horiseon-demo/blob/master/assets/images/Website-ss-3.png?raw=true">
 
 
